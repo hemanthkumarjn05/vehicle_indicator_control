@@ -1,0 +1,13 @@
+System Initialized and Ready.
+Left button was just pressed.
+Left Indicator ON.
+Left button was just pressed.
+Left Indicator OFF.
+Right button was just pressed.
+Right Indicator ON.
+Right button was just pressed.
+Right Indicator OFF.
+Dedicated Hazard button was just pressed.
+Hazard Lights ACTIVATED by Dedicated Button.
+Dedicated Hazard button was just pressed.
+Hazard Lights
